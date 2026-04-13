@@ -16,7 +16,4 @@ HelpBox.propTypes = {
   text: string,
 };
 
-export default HelpBox;
-
-
-//testing push event filter 
+export default HelpBox; //testing push event filter 
